@@ -5,9 +5,9 @@
 Add or substract the value based on the comparison between  the current and the next value starting from the end of the string.
 
 # Complexity
-- Time complexity: $$3ms$$
+- Time complexity: `3ms`
 
-- Space complexity: $$44.7 MB$$
+- Space complexity: `44.7 MB`
 
 # Code
 ```
